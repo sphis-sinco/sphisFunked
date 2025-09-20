@@ -12,22 +12,22 @@
     },
     {
       "name": "singLEFT",
-      "prefix": "sbf left",
+      "prefix": "sbf left0",
       "offsets": [0, 0]
     },
     {
       "name": "singDOWN",
-      "prefix": "sbf down",
+      "prefix": "sbf down0",
       "offsets": [0, 0]
     },
     {
       "name": "singUP",
-      "prefix": "sbf up",
+      "prefix": "sbf up0",
       "offsets": [0, 0]
     },
     {
       "name": "singRIGHT",
-      "prefix": "sbf right",
+      "prefix": "sbf right0",
       "offsets": [0, 0]
     },
     {
