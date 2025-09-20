@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sgf-speaker.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sgf speaker bump0000" x="4" y="4" width="165" height="204" frameX="-5" frameY="-8" frameWidth="178" frameHeight="218"/>
+	<SubTexture name="sgf speaker bump0001" x="4" y="4" width="165" height="204" frameX="-5" frameY="-8" frameWidth="178" frameHeight="218"/>
+	<SubTexture name="sgf speaker bump0002" x="4" y="4" width="165" height="204" frameX="-5" frameY="-8" frameWidth="178" frameHeight="218"/>
+	<SubTexture name="sgf speaker bump0003" x="4" y="4" width="165" height="204" frameX="-5" frameY="-8" frameWidth="178" frameHeight="218"/>
+	<SubTexture name="sgf speaker bump0004" x="4" y="4" width="165" height="204" frameX="-5" frameY="-8" frameWidth="178" frameHeight="218"/>
+	<SubTexture name="sgf speaker bump0005" x="4" y="4" width="165" height="204" frameX="-5" frameY="-8" frameWidth="178" frameHeight="218"/>
+	<SubTexture name="sgf speaker bump0006" x="177" y="4" width="178" height="218"/>
+	<SubTexture name="sgf speaker bump0007" x="177" y="4" width="178" height="218"/>
+</TextureAtlas>
