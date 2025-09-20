@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sbf-hey.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sbf hey0000" x="4" y="4" width="459" height="696" frameX="0" frameY="-3" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0001" x="4" y="4" width="459" height="696" frameX="0" frameY="-3" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0002" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0003" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0004" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0005" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0006" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0007" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0008" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0009" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0010" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0011" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0012" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0013" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0014" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0015" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0016" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0017" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0018" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0019" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0020" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0021" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0022" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+	<SubTexture name="sbf hey0023" x="471" y="4" width="397" height="699" frameX="-23" frameY="0" frameWidth="459" frameHeight="699"/>
+</TextureAtlas>
