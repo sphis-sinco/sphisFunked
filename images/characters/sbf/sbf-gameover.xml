@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sbf-gameover.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sbf gameover intro0000" x="4" y="4" width="481" height="604" frameX="0" frameY="-57" frameWidth="537" frameHeight="680"/>
+	<SubTexture name="sbf gameover intro0001" x="493" y="4" width="500" height="680" frameX="-32" frameY="0" frameWidth="537" frameHeight="680"/>
+	<SubTexture name="sbf gameover intro0002" x="1001" y="4" width="505" height="652" frameX="-32" frameY="-14" frameWidth="537" frameHeight="680"/>
+	<SubTexture name="sbf gameover intro0003" x="1001" y="4" width="505" height="652" frameX="-32" frameY="-14" frameWidth="537" frameHeight="680"/>
+	<SubTexture name="sbf gameover loop0000" x="1514" y="4" width="505" height="652"/>
+	<SubTexture name="sbf gameover retry0000" x="2027" y="4" width="505" height="652" frameX="0" frameY="-8" frameWidth="522" frameHeight="686"/>
+	<SubTexture name="sbf gameover retry0001" x="2027" y="4" width="505" height="652" frameX="0" frameY="-8" frameWidth="522" frameHeight="686"/>
+	<SubTexture name="sbf gameover retry0002" x="2540" y="4" width="484" height="660" frameX="-21" frameY="0" frameWidth="522" frameHeight="686"/>
+	<SubTexture name="sbf gameover retry0003" x="3032" y="4" width="445" height="683" frameX="-21" frameY="0" frameWidth="522" frameHeight="686"/>
+	<SubTexture name="sbf gameover retry0004" x="3032" y="4" width="445" height="683" frameX="-21" frameY="0" frameWidth="522" frameHeight="686"/>
+	<SubTexture name="sbf gameover retry0005" x="3485" y="4" width="421" height="667" frameX="-87" frameY="-19" frameWidth="522" frameHeight="686"/>
+	<SubTexture name="sbf gameover retry0006" x="3485" y="4" width="421" height="667" frameX="-87" frameY="-19" frameWidth="522" frameHeight="686"/>
+	<SubTexture name="sbf gameover retry0007" x="4" y="695" width="414" height="672" frameX="-108" frameY="-14" frameWidth="522" frameHeight="686"/>
+	<SubTexture name="sbf gameover retry0008" x="4" y="695" width="414" height="672" frameX="-108" frameY="-14" frameWidth="522" frameHeight="686"/>
+	<SubTexture name="sbf gameover retry0009" x="4" y="695" width="414" height="672" frameX="-108" frameY="-14" frameWidth="522" frameHeight="686"/>
+	<SubTexture name="sbf gameover retry0010" x="4" y="695" width="414" height="672" frameX="-108" frameY="-14" frameWidth="522" frameHeight="686"/>
+</TextureAtlas>

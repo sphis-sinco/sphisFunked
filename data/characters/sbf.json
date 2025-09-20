@@ -18,140 +18,179 @@
 	"singTime": 8,
 	"assetPath": "characters/sbf/sbf-basic",
 	"healthIcon": {
+		"isPixel": false,
 		"offsets": [
 			0,
 			0
 		],
+		"scale": 1,
 		"id": "sbf",
-		"flipX": false,
-		"isPixel": false,
-		"scale": 1
+		"flipX": false
 	},
 	"animations": [
 		{
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "sbf idle",
-			"flipX": false,
+			"name": "idle",
 			"looped": false,
-			"name": "idle"
+			"flipX": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				-5,
 				5
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "sbf left0",
-			"flipX": false,
+			"name": "singLEFT",
 			"looped": false,
-			"name": "singLEFT"
+			"flipX": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				10,
 				-60
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "sbf down0",
-			"flipX": false,
+			"name": "singDOWN",
 			"looped": false,
-			"name": "singDOWN"
+			"flipX": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				-70,
 				50
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "sbf up0",
-			"flipX": false,
+			"name": "singUP",
 			"looped": false,
-			"name": "singUP"
+			"flipX": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				-70,
 				5
 			],
+			"flipY": false,
 			"frameRate": 24,
 			"prefix": "sbf right0",
-			"flipX": false,
+			"name": "singRIGHT",
 			"looped": false,
-			"name": "singRIGHT"
+			"flipX": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"frameRate": 24,
+			"flipY": false,
 			"assetPath": "characters/sbf/sbf-miss",
+			"frameRate": 24,
 			"prefix": "sbf left miss",
-			"flipX": false,
+			"name": "singLEFTmiss",
 			"looped": false,
-			"name": "singLEFTmiss"
+			"flipX": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				10,
 				-60
 			],
-			"frameRate": 24,
+			"flipY": false,
 			"assetPath": "characters/sbf/sbf-miss",
+			"frameRate": 24,
 			"prefix": "sbf down miss",
-			"flipX": false,
+			"name": "singDOWNmiss",
 			"looped": false,
-			"name": "singDOWNmiss"
+			"flipX": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				-70,
 				50
 			],
-			"frameRate": 24,
+			"flipY": false,
 			"assetPath": "characters/sbf/sbf-miss",
+			"frameRate": 24,
 			"prefix": "sbf up miss",
-			"flipX": false,
+			"name": "singUPmiss",
 			"looped": false,
-			"name": "singUPmiss"
+			"flipX": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				-70,
 				5
 			],
-			"frameRate": 24,
+			"flipY": false,
 			"assetPath": "characters/sbf/sbf-miss",
+			"frameRate": 24,
 			"prefix": "sbf right miss",
-			"flipX": false,
+			"name": "singRIGHTmiss",
 			"looped": false,
-			"name": "singRIGHTmiss"
+			"flipX": false
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				-19,
 				26
 			],
-			"frameRate": 24,
+			"flipY": false,
 			"assetPath": "characters/sbf/sbf-hey",
+			"frameRate": 24,
 			"prefix": "sbf hey",
+			"name": "hey",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				120,
+				20
+			],
+			"frameRate": 24,
+			"assetPath": "characters/sbf/sbf-gameover",
+			"prefix": "sbf gameover intro",
 			"flipX": false,
 			"looped": false,
-			"name": "hey"
+			"name": "firstDeath"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				90,
+				5
+			],
+			"frameRate": 24,
+			"assetPath": "characters/sbf/sbf-gameover",
+			"prefix": "sbf gameover loop",
+			"flipX": false,
+			"name": "deathLoop",
+			"looped": true
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				85,
+				15
+			],
+			"frameRate": 24,
+			"assetPath": "characters/sbf/sbf-gameover",
+			"prefix": "sbf gameover retry",
+			"flipX": false,
+			"looped": false,
+			"name": "deathConfirm"
 		}
 	]
 }
