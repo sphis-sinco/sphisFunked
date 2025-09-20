@@ -1,0 +1,64 @@
+{
+  "version": "1.0.0",
+  "name": "Sphis Boyfriend",
+  "renderType": "multisparrow",
+  "assetPath": "characters/sbf/sbf-basic",
+  "flipX": true,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "sbf idle",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "sbf left",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "sbf down",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "sbf up",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "sbf right",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFTmiss",
+      "assetPath": "characters/sbf/sbf-miss",
+      "prefix": "sbf left miss",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWNmiss",
+      "assetPath": "characters/sbf/sbf-miss",
+      "prefix": "sbf down miss",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUPmiss",
+      "assetPath": "characters/sbf/sbf-miss",
+      "prefix": "sbf up miss",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHTmiss",
+      "assetPath": "characters/sbf/sbf-miss",
+      "prefix": "sbf right miss",
+      "offsets": [0, 0]
+    }
+    {
+      "name": "hey",
+      "assetPath": "characters/sbf/sbf-hey",
+      "prefix": "sbf hey",
+      "offsets": [0, 0]
+    }
+  ]
+}
