@@ -1,64 +1,157 @@
 {
-  "version": "1.0.0",
-  "name": "Sphis Boyfriend",
-  "renderType": "multisparrow",
-  "assetPath": "characters/sbf/sbf-basic",
-  "flipX": true,
-  "animations": [
-    {
-      "name": "idle",
-      "prefix": "sbf idle",
-      "offsets": [0, 0]
-    },
-    {
-      "name": "singLEFT",
-      "prefix": "sbf left0",
-      "offsets": [0, 0]
-    },
-    {
-      "name": "singDOWN",
-      "prefix": "sbf down0",
-      "offsets": [0, 0]
-    },
-    {
-      "name": "singUP",
-      "prefix": "sbf up0",
-      "offsets": [0, 0]
-    },
-    {
-      "name": "singRIGHT",
-      "prefix": "sbf right0",
-      "offsets": [0, 0]
-    },
-    {
-      "name": "singLEFTmiss",
-      "assetPath": "characters/sbf/sbf-miss",
-      "prefix": "sbf left miss",
-      "offsets": [0, 0]
-    },
-    {
-      "name": "singDOWNmiss",
-      "assetPath": "characters/sbf/sbf-miss",
-      "prefix": "sbf down miss",
-      "offsets": [0, 0]
-    },
-    {
-      "name": "singUPmiss",
-      "assetPath": "characters/sbf/sbf-miss",
-      "prefix": "sbf up miss",
-      "offsets": [0, 0]
-    },
-    {
-      "name": "singRIGHTmiss",
-      "assetPath": "characters/sbf/sbf-miss",
-      "prefix": "sbf right miss",
-      "offsets": [0, 0]
-    },
-    {
-      "name": "hey",
-      "assetPath": "characters/sbf/sbf-hey",
-      "prefix": "sbf hey",
-      "offsets": [0, 0]
-    }
-  ]
+	"version": "1.0.0",
+	"renderType": "multisparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 0.75,
+	"name": "Sphis Boyfriend",
+	"flipX": true,
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"singTime": 8,
+	"assetPath": "characters/sbf/sbf-basic",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"id": "sbf",
+		"flipX": false,
+		"isPixel": false,
+		"scale": 1
+	},
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "sbf idle",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-5,
+				5
+			],
+			"frameRate": 24,
+			"prefix": "sbf left0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				10,
+				-60
+			],
+			"frameRate": 24,
+			"prefix": "sbf down0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-70,
+				50
+			],
+			"frameRate": 24,
+			"prefix": "sbf up0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-70,
+				5
+			],
+			"frameRate": 24,
+			"prefix": "sbf right0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"assetPath": "characters/sbf/sbf-miss",
+			"prefix": "sbf left miss",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				10,
+				-60
+			],
+			"frameRate": 24,
+			"assetPath": "characters/sbf/sbf-miss",
+			"prefix": "sbf down miss",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-70,
+				50
+			],
+			"frameRate": 24,
+			"assetPath": "characters/sbf/sbf-miss",
+			"prefix": "sbf up miss",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-70,
+				5
+			],
+			"frameRate": 24,
+			"assetPath": "characters/sbf/sbf-miss",
+			"prefix": "sbf right miss",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-19,
+				26
+			],
+			"frameRate": 24,
+			"assetPath": "characters/sbf/sbf-hey",
+			"prefix": "sbf hey",
+			"flipX": false,
+			"looped": false,
+			"name": "hey"
+		}
+	]
 }
