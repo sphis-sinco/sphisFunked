@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sdad-basic.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sdad down0000" x="4" y="4" width="607" height="927" frameX="0" frameY="-41" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0001" x="4" y="4" width="607" height="927" frameX="0" frameY="-41" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0002" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0003" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0004" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0005" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0006" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0007" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0008" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0009" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0010" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0011" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0012" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0013" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0014" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0015" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0016" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0017" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0018" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0019" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0020" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0021" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0022" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad down0023" x="619" y="4" width="564" height="968" frameX="-8" frameY="0" frameWidth="607" frameHeight="968"/>
+	<SubTexture name="sdad idle0000" x="1191" y="4" width="465" height="1002" frameX="0" frameY="-31" frameWidth="472" frameHeight="1033"/>
+	<SubTexture name="sdad idle0001" x="1191" y="4" width="465" height="1002" frameX="0" frameY="-31" frameWidth="472" frameHeight="1033"/>
+	<SubTexture name="sdad idle0002" x="1664" y="4" width="467" height="1019" frameX="0" frameY="-14" frameWidth="472" frameHeight="1033"/>
+	<SubTexture name="sdad idle0003" x="1664" y="4" width="467" height="1019" frameX="0" frameY="-14" frameWidth="472" frameHeight="1033"/>
+	<SubTexture name="sdad idle0004" x="2139" y="4" width="471" height="1029" frameX="0" frameY="-4" frameWidth="472" frameHeight="1033"/>
+	<SubTexture name="sdad idle0005" x="2139" y="4" width="471" height="1029" frameX="0" frameY="-4" frameWidth="472" frameHeight="1033"/>
+	<SubTexture name="sdad idle0006" x="2618" y="4" width="472" height="1033"/>
+	<SubTexture name="sdad idle0007" x="3098" y="4" width="472" height="1033"/>
+	<SubTexture name="sdad idle0008" x="3098" y="4" width="472" height="1033"/>
+	<SubTexture name="sdad idle0009" x="3098" y="4" width="472" height="1033"/>
+	<SubTexture name="sdad idle0010" x="3098" y="4" width="472" height="1033"/>
+	<SubTexture name="sdad idle0011" x="3098" y="4" width="472" height="1033"/>
+	<SubTexture name="sdad idle0012" x="3098" y="4" width="472" height="1033"/>
+	<SubTexture name="sdad idle0013" x="3098" y="4" width="472" height="1033"/>
+	<SubTexture name="sdad left0000" x="4" y="1045" width="545" height="1000" frameX="0" frameY="-3" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0001" x="4" y="1045" width="545" height="1000" frameX="0" frameY="-3" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0002" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0003" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0004" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0005" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0006" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0007" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0008" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0009" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0010" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0011" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0012" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0013" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0014" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0015" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0016" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0017" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0018" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0019" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0020" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0021" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0022" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad left0023" x="557" y="1045" width="504" height="1003" frameX="-28" frameY="0" frameWidth="545" frameHeight="1003"/>
+	<SubTexture name="sdad right0000" x="1069" y="1045" width="573" height="1036"/>
+	<SubTexture name="sdad right0001" x="1069" y="1045" width="573" height="1036"/>
+	<SubTexture name="sdad right0002" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0003" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0004" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0005" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0006" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0007" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0008" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0009" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0010" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0011" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0012" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0013" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0014" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0015" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0016" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0017" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0018" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0019" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0020" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0021" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0022" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad right0023" x="1650" y="1045" width="524" height="1036" frameX="0" frameY="0" frameWidth="573" frameHeight="1036"/>
+	<SubTexture name="sdad up0000" x="2182" y="1045" width="532" height="1081" frameX="0" frameY="0" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0001" x="2182" y="1045" width="532" height="1081" frameX="0" frameY="0" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0002" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0003" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0004" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0005" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0006" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0007" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0008" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0009" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0010" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0011" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0012" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0013" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0014" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0015" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0016" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0017" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0018" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0019" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0020" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0021" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0022" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+	<SubTexture name="sdad up0023" x="2722" y="1045" width="468" height="1063" frameX="-65" frameY="-17" frameWidth="533" frameHeight="1081"/>
+</TextureAtlas>

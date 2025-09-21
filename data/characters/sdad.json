@@ -1,6 +1,6 @@
 {
 	"version": "1.0.0",
-	"renderType": "animateatlas",
+	"renderType": "multisparrow",
 	"offsets": [
 		0,
 		0
