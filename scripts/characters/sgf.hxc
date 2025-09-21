@@ -26,16 +26,20 @@ class SphisGirlfriend extends MultiSparrowCharacter
     speaker = new FlxSprite(0, 0, Paths.image('characters/sgf/sgf-speaker'));
     var tex:FlxFramesCollection = Paths.getSparrowAtlas('characters/sgf/sgf-speaker');
     speaker.frames = tex;
-    speaker.animation.addByPrefix('idle', 'sgf speaker v2 bump', 24);
-    speaker.animation.play('idle');
+    speaker.animation.addByPrefix('idle', 'sgf speaker v2 bump', 24, false);
   }
 
-  function dance(forceRestart:Bool)
+  
+  public function playAnimation(name:String, restart:Bool = false, ignoreOther:Bool = false, reversed:Bool = false):Void
   {
-    if (speaker != null)
+    super.playAnimation(name, restart, ignoreOther, reversed);
+
+    if (name == 'idle')
     {
-      playAnimation('idle');
-      speaker.animation.play('idle');
+      if (speaker != null)
+      {
+        speaker.animation.play('idle');
+      }
     }
   }
 
