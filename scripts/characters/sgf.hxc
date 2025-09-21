@@ -14,7 +14,7 @@ class SphisGirlfriend extends MultiSparrowCharacter
 {
   function new()
   {
-    super('_sgf');
+    super('-sgf');
   }
 
   var speaker:FlxSprite;
