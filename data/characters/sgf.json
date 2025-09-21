@@ -1,6 +1,6 @@
 {
 	"version": "1.0.0",
-	"renderType": "sparrow",
+	"renderType": "multisparrow",
 	"offsets": [
 		0,
 		0
@@ -38,7 +38,7 @@
 			"prefix": "sgf idle",
 			"flipX": false,
 			"looped": false,
-			"name": "dance"
+			"name": "idle"
 		}
 	]
 }

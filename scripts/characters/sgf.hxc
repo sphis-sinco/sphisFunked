@@ -1,0 +1,72 @@
+import funkin.play.character.MultiSparrowCharacter;
+import funkin.play.PlayState;
+import flixel.FlxG;
+import flixel.FlxSprite;
+import flixel.group.FlxTypedSpriteGroup;
+import funkin.graphics.FunkinSprite;
+import funkin.modding.base.ScriptedFlxAtlasSprite;
+import funkin.modding.base.ScriptedFlxSprite;
+import funkin.modding.base.ScriptedFlxSpriteGroup;
+import funkin.graphics.adobeanimate.FlxAtlasSprite;
+import funkin.audio.visualize.ABotVis;
+
+class SphisGirlfriend extends MultiSparrowCharacter
+{
+  function new()
+  {
+    super('sgf');
+  }
+
+  var speaker:FlxSprite;
+
+  function onCreate(event:ScriptEvent)
+  {
+    super.onCreate(event);
+
+    speaker = new FlxSprite(0, 0, Paths.image('characters/sgf/sgf-speaker'));
+  }
+
+  function dance(forceRestart:Bool)
+  {
+  }
+
+  var refershedLol:Bool = false;
+
+  function onUpdate(event:UpdateScriptEvent)
+  {
+    super.onUpdate(event);
+
+    synchronizeShader();
+
+    speaker.visible = this.visible;
+
+    // refreshes just for the zIndex shit!
+    if (!refershedLol)
+    {
+      speaker.x = this.x + 0;
+      speaker.y = this.y + 0;
+      speaker.zIndex = this.zIndex + 1;
+      PlayState.instance.currentStage.add(speaker);
+
+      PlayState.instance.currentStage.refresh();
+      refershedLol = true;
+    }
+
+    if (shouldTransitionState())
+    {
+      transitionState();
+    }
+  }
+
+  var currentShader = null;
+  function synchronizeShader():Void
+  {
+    if (currentShader == this.shader) return;
+
+    currentShader = this.shader;
+
+    speaker.shader = currentShader;
+
+    trace("Synchronized shader between children!");
+  }
+}
