@@ -17,41 +17,54 @@
 	"startingAnimation": "idle",
 	"isPixel": false,
 	"healthIcon": {
-		"isPixel": false,
 		"offsets": [
 			0,
 			0
 		],
+		"isPixel": false,
 		"scale": 1,
-		"id": "gf",
-		"flipX": false
+		"flipX": false,
+		"id": "gf"
 	},
 	"assetPath": "characters/sgf/sgf-basic",
 	"animations": [
 		{
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
 			"frameRate": 24,
 			"prefix": "sgf idle",
-			"name": "idle",
+			"flipX": false,
 			"looped": false,
-			"flipX": false
+			"name": "idle"
 		},
 		{
-			"flipY": false,
 			"offsets": [
 				65,
 				5
 			],
-			"frameRate": 24,
+			"flipY": false,
 			"assetPath": "characters/sgf/sgf-cheer",
+			"frameRate": 24,
 			"prefix": "sgf cheer",
-			"flipX": false,
+			"name": "cheer",
 			"looped": false,
-			"name": "cheer"
+			"flipX": false
+		},
+		{
+			"offsets": [
+				15,
+				-40
+			],
+			"flipY": false,
+			"assetPath": "characters/sgf/sgf-sad",
+			"frameRate": 24,
+			"prefix": "sgf sad",
+			"name": "sad",
+			"looped": false,
+			"flipX": false
 		}
 	]
 }

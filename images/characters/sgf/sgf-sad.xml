@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sgf-sad.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sgf sad0000" x="4" y="4" width="288" height="429" frameX="0" frameY="0" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0001" x="4" y="4" width="288" height="429" frameX="0" frameY="0" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0002" x="300" y="4" width="290" height="429" frameX="-1" frameY="0" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0003" x="300" y="4" width="290" height="429" frameX="-1" frameY="0" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0004" x="598" y="4" width="300" height="426" frameX="-5" frameY="-3" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0005" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0006" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0007" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0008" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0009" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0010" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0011" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0012" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0013" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0014" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0015" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0016" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0017" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0018" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0019" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0020" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0021" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0022" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+	<SubTexture name="sgf sad0023" x="4" y="441" width="304" height="419" frameX="-9" frameY="-10" frameWidth="313" frameHeight="429"/>
+</TextureAtlas>
