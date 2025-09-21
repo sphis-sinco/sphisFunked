@@ -38,7 +38,7 @@ class SphisGirlfriend extends MultiSparrowCharacter
 
   var comboDropAnimationComboCounts = [
     1
-  ]
+  ];
 
   function playComboAnimation(comboCount:Int):Void
   {
@@ -50,8 +50,16 @@ class SphisGirlfriend extends MultiSparrowCharacter
 
   function playComboDropAnimation(comboCount:Int):Void
   {
+    var playAnim = false;
+    for (combo in comboDropAnimationComboCounts)
+    {
+      if (comboCount >= combo)
+      {
+        playAnim = true;
+      }
+    }
 
-    if (!comboDropAnimationComboCounts.contains(comboCount)) return;
+    if (!playAnim) return;
 
     trace('Playing GF combo drop animation, combo='+comboCount);
     this.playAnimation("sad", true, true);
