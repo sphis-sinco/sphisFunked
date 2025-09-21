@@ -33,7 +33,10 @@ class SphisGirlfriend extends MultiSparrowCharacter
   function dance(forceRestart:Bool)
   {
     if (speaker != null)
+    {
+      playAnimation('idle');
       speaker.animation.play('idle');
+    }
   }
 
   var refershedLol:Bool = false;
@@ -50,7 +53,7 @@ class SphisGirlfriend extends MultiSparrowCharacter
     if (!refershedLol)
     {
       speaker.x = this.x + 0;
-      speaker.y = this.y + 0;
+      speaker.y = this.y + 320;
       speaker.zIndex = this.zIndex + 1;
       PlayState.instance.currentStage.add(speaker);
 
