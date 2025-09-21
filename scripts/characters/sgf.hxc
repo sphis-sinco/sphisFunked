@@ -51,11 +51,6 @@ class SphisGirlfriend extends MultiSparrowCharacter
       PlayState.instance.currentStage.refresh();
       refershedLol = true;
     }
-
-    if (shouldTransitionState())
-    {
-      transitionState();
-    }
   }
 
   var currentShader = null;
