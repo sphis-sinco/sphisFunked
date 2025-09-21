@@ -29,6 +29,34 @@ class SphisGirlfriend extends MultiSparrowCharacter
     speaker.animation.addByPrefix('idle', 'sgf speaker v2 bump', 24, false);
   }
 
+  var comboAnimationComboCounts = [
+    50,
+    100,
+    200,
+    250
+  ];
+
+  var comboDropAnimationComboCounts = [
+    1
+  ]
+
+  function playComboAnimation(comboCount:Int):Void
+  {
+    if (!comboAnimationComboCounts.contains(comboCount)) return;
+
+    trace('Playing GF combo animation, combo='+comboCount);
+    this.playAnimation("cheer", true, true);
+  }
+
+  function playComboDropAnimation(comboCount:Int):Void
+  {
+
+    if (!comboDropAnimationComboCounts.contains(comboCount)) return;
+
+    trace('Playing GF combo drop animation, combo='+comboCount);
+    this.playAnimation("sad", true, true);
+  }
+
   
   public function playAnimation(name:String, restart:Bool = false, ignoreOther:Bool = false, reversed:Bool = false):Void
   {
