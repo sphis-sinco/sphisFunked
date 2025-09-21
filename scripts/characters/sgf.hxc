@@ -36,9 +36,7 @@ class SphisGirlfriend extends MultiSparrowCharacter
     250
   ];
 
-  var comboDropAnimationComboCounts = [
-    1
-  ];
+  var min_comboDropAnim_comboAmount = 1;
 
   function playComboAnimation(comboCount:Int):Void
   {
@@ -50,16 +48,7 @@ class SphisGirlfriend extends MultiSparrowCharacter
 
   function playComboDropAnimation(comboCount:Int):Void
   {
-    var playAnim = false;
-    for (combo in comboDropAnimationComboCounts)
-    {
-      if (comboCount >= combo)
-      {
-        playAnim = true;
-      }
-    }
-
-    if (!playAnim) return;
+    if (min_comboDropAnim_comboAmount > comboCount) return;
 
     trace('Playing GF combo drop animation, combo='+comboCount);
     this.playAnimation("sad", true, true);
