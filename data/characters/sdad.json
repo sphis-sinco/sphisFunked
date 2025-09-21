@@ -25,7 +25,7 @@
 		"flipX": false,
 		"id": "dad"
 	},
-	"assetPath": "characters/sdad/sdad-regular",
+	"assetPath": "characters/sdad/sdad-basic",
 	"animations": [
 		{
 			"flipY": false,
